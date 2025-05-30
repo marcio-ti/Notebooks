@@ -1,40 +1,75 @@
-﻿PRODUTO;CODIGO;UNIDADE;PESO
+﻿produto;codigo;unidade;peso
 Abacate Avocado;1;KG;1,000
 Abacate Comum;218;KG;1,000
+Abacate Comum;218;CX;18,000
+Abacate Comum;218;CXT;10,000
+Abacate Comum;218;OUTROS;9,000
 Abacaxi Caiena (Hawai);2;UND;1,800
 Abacaxi Caiena (Hawai);2;KG;1,000
 Abacaxi Perola;3;UND;1,300
 Abacaxi Perola;3;KG;1,000
 Abacaxi Terra de Areia;4;UND;0,600
 Abacaxi Terra de Areia;4;KG;1,000
+Abacaxi Terra de Areia;4;CX;12,000
 Abobora;5;KG;1,000
+Abobora;5;SACO;20,000
 Abobrinha Italiana;6;KG;1,000
+Abobrinha Italiana;6;CX;15,000
+Abobrinha Tronco;7;CX;15,000
 Abobrinha Tronco;7;KG;1,000
 Acelga;8;DZ;6,000
 Acerola;9;KG;1,000
+Acerola;9;CX;10,000
+Acerola;9;CXT;2,000
 Agrião;10;DZ;2,400
 Agrião;10;KG;1
 Aipo Salsão;11;DZ;10,200
 Aipo Salsão;11;KG;1,000
 Alcachofra;12;UND;0,250
 Alcachofra;12;KG;1,000
+Alcachofra;12;CX;8,000
+Alcachofra;12;CXT;4,000
+Alecrim;200112;KG;1,000
+Alecrim;200112;DZ;2,160
 Alecrim;200112;MOL;0,180
 Alface Americana;17;DZ;5,000
 Alface Americana;17;KG;1,000
+Alface Americana;17;CX;1,000
 Alface Crespa;14;DZ;5,000
+Alface Crespa;14;CX;5,000
 Alface Lisa;15;DZ;5,000
+Alface Lisa;15;CX;5,000
 Alface Mimosa;16;DZ;5,000
+Alface Mimosa;16;CX;5,000
 Alho;18;KG;1,000
+Alho;18;SACO;10,000
+Alho;18;CX;10,000
 Alho Importado(a);274;KG;1,000
+Alho Importado(a);274;CX;10,000
 Alho Macho;20;KG;1,000
+Alho Macho;20;OUTROS;1,000
+Alho Macho;20;SACO;5,000
 Alho Poro;19;DZ;3,000
+Alho Poro;19;MOL;1,500
 Alho Poro;19;KG;1,000
 Almeirão / Radite;21;DZ;1,800
 Ameixa;22;KG;1,000
+Ameixa;22;CX;9,000
+Ameixa;22;CXT;4,500
 Ameixa  Importado(a);275;KG;1,000
+Ameixa Importado(a);275;KG;1,000
+Ameixa Importado(a);275;CX;8,000
+Ameixa Importado(a);275;CXT;8,000
+Ameixa  Importado(a);275;CX;8,000
+Ameixa  Importado(a);275;CXT;8,000
 Amendoim Com Casca;23;KG;1,000
+Amendoim Com Casca;23;SACO;25,000
+Amendoim Com Casca;23;OUTROS;10,000
 Amendoim Sem Casca;24;KG;1,000
+Amendoim Sem Casca;24;SACO;25,000
+Amendoim Sem Casca;24;OUTROS;10,000
 Amora Preta;25;KG;1,000
+Amora Preta;25;CXT;2,500
 Anturio;26;UND;0,300
 Anturio;26;KG;1,000
 Aster;27;MOL;0,250
@@ -42,207 +77,445 @@ Astromelia;28;MOL;0,300
 Azaléia;29;UND;0,300
 Azaléia;29;KG;1,000
 Banana Caturra / Nanica;30;KG;1,000
+Banana Caturra / Nanica;30;CX;20,000
+Banana Caturra / Nanica;30;OUTROS;10,000
 Banana Maca;33;KG;1,000
+Banana Maca;33;CX;20,000
+Banana Maca;33;CXT;10,000
 Banana Prata / Branca;32;KG;1,000
+Banana Prata / Branca;32;CX;20,000
+Banana Prata / Branca;32;OUTROS;10,000
 Banana Terras e Outras;31;KG;1,000
 Batata Branca;34;KG;1,000
+Batata Branca;34;SACO;25,000
+Batata Branca;34;OUTROS;50,000
 Batata Doce;36;KG;1,000
 Batata Doce;36;CX;20,000
+Batata Doce;36;SACO;20,000
 Batata Rosa;35;KG;1,000
 Begonia;37;UND;0,300
+Begonia;37;KG;1,000
 Bergamota Comum / Cai;38;KG;1,000
+Bergamota Comum / Cai;38;CX;18,000
 Bergamota Montenegrina;41;KG;1,000
+Bergamota Montenegrina;41;CX;18,000
 Bergamota Murcott;40;KG;1,000
+Bergamota Murcott;40;CX;18,000
 Bergamota Outras;42;KG;1,000
+Bergamota Outras;42;CX;18,000
 Bergamota Outras Importado(a);317;KG;1,000
+Bergamota Outras Importado(a);317;CX;18,000
 Bergamota Ponkan;39;KG;1,000
+Bergamota Ponkan;39;CX;18,000
 Beringela;44;KG;1,000
+Beringela;44;CX;10,000
+Berinjela;44;KG;1,000
+Berinjela;44;CX;10,000
 Beterraba;45;DZ;18,000
 Beterraba;45;KG;1,000
+Beterraba;45;CX;20,000
+Beterraba;45;SACO;20,000
 Bico de Papagaio;46;MOL;0,300
 Boca de Leão;47;MOL;0,300
+Boca de Leão;47;KG;1,000
 Bonsai;48;UND;0,500
 Brocolis;49;DZ;8,400
 Brocolis;49;KG;1,000
 Brotos Dirversos;50;KG;1,000
+Brotos Dirversos;50;CX;6,000
+Brotos Dirversos;50;SCL;0,500
+Brotos Dirversos;50;OUTROS;1,000
+Brotos Dirversos;50;CXT;0,125
 Cactus;51;UND;0,300
-Cactus Mini;222;CX;
+Cactus Mini;222;CX;2,000
+Cactus;51;KG;1,000
+Cactus Mini;222;KG;1,000
 Caqui  Importado(a);256;KG;1,000
+Caqui  Importado(a);256;CXT;4,500
 Caqui Chocolate;53;KG;1,000
+Caqui Chocolate;53;CX;20,000
+Caqui Chocolate;53;CXT;10,000
 Caqui Fuyu;54;KG;1,000
+Caqui Fuyu;54;CX;20,000
+Caqui Fuyu;54;CXT;10,000
 Caqui Mole;52;KG;1,000
+Caqui Mole;52;CX;3,000
+Caqui Mole;52;CXT;4,000
 Cara;55;KG;1,000
+Cara;55;CX;20,000
 Carambola;56;KG;1,000
+Carambola;56;CX;3,000
+Carambola;56;CXT;3,000
 Cebola;57;KG;1,000
+Cebola;57;SACO;20,000
 Cebola  Importado(a);271;KG;1,000
+Cebola Importado(a);271;KG;1,000
+Cebola  Importado(a);271;SACO;20,000
+Cebola Importado(a);271;SACO;20,000
+Cebola  Importado(a);271;OUTROS;25,000
+Cebola Importado(a);271;OUTROS;25,000
 Cebola Roxa;58;KG;1,000
+Cebola Roxa;58;SACO;20,000
 Cenoura;59;DZ;9,000
+Cenoura;59;CX;20,000
+Cenoura;59;SACO;20,000
 Cenoura;59;KG;1,000
 Cenoura Baby;60;KG;1,000
+Cenoura Baby;60;CX;10,000
+Cenoura Baby;60;CXT;5,000
 Cereja;199696;KG;1,000
+Cereja;199696;CXT;5,000
+Cereja;199696;CX;5,000
 Chicória / Escarola;64;DZ;5,000
 Chicória / Escarola;64;KG;1,000
 Chuchu;63;KG;1,000
+Chuchu;63;CX;18,000
 Chuchu Mini;62;KG;1,000
 Coco Seco;66;KG;1,000
+Coco Seco;66;SACO;20,000
+Coco Seco;66;UND;0,720
 Coco Verde;65;UND;2,000
+Coco Verde;65;KG;1,000
 Copo de Leite;67;MOL;0,500
 Couve Chinesa;69;DZ;9,000
+Couve Chinesa;69;KG;1,000
 Couve Flor;70;DZ;14,400
+Couve Flor;70;KG;1,00
 Couve Verde;210485;DZ;4,800
+Couve Verde;210485;KG;1,000
 Cravina;71;MOL;0,300
 Cravo;72;DZ;1,800
 Cravo;72;MOL;0,300
+Cravo;72;KG;1,000
+Cravo;72;OUTROS;3,000
 Crisantemo;73;MOL;0,300
 Crisantemo;73;UND;0,900
+Crisantemo;73;KG;1,000
+Crisantemo;73;DZ;3,600
 Endivia;74;KG;1,000
+Endivia;74;CXT;5,000
+Endivia;74;BDJ;0,500
 Erva Doce / Funcho;75;DZ;5,000
 Ervas Aromaticas;76;MOL;0,030
 Ervas Aromáticas;76;MOL;0,030
+Ervas Aromaticas;76;KG;1,000
+Ervas Aromáticas;76;KG;1,000
+Ervas Aromaticas;76;DZ;0,360
+Ervas Aromáticas;76;DZ;0,360
+Ervas Aromaticas;76;UND;0,030
+Ervas Aromáticas;76;UND;0,030
 Ervilha;77;KG;1,000
+Ervilha;77;CX;14,000
+Ervilha;77;SACO;10,000
 Ervilha Torta;78;KG;1,000
+Ervilha Torta;78;CX;8,000
 Espinafre;79;DZ;6,000
 Espinafre;79;KG;1,000
 Estatice;80;MOL;0,300
 Estatice;80;KG;1,000
 Fava;81;KG;1,000
+Fava;81;CX;8,000
+Fava;81;SACO;9,000
 Feijão;82;KG;1,000
+Feijão;82;OUTROS;60,000
+Feijão;82;SACO;30,000
 Figo Maduro;83;KG;1,000
+Figo Maduro;83;CXT;1,500
 Figo Verde;84;KG;1,000
-Flores Comestiveis;85;BDJ;0,050
-Flores Comestiveis;85;KG;1,000
+Figo Verde;84;CX;15,000
+Figo Verde;84;CXT;5,000
+Figo Verde;84;SACO;9,000
 Flores Comestíveis;85;BDJ;0,050
 Flores Comestíveis;85;KG;1,000
+Flores Comestíveis;85;BDJ;0,050
+Flores Comestíveis;85;KG;1,000
+Flores Comestiveis;85;BDJ;0,050
+Flores Comestiveis;85;KG;1,000
+Flores Comestiveis;85;BDJ;0,050
+Flores Comestiveis;85;KG;1,000
+Flores Comestíveis;85;OUTROS;0,050
+Flores Comestiveis;85;OUTROS;0,050
 Folhagens Variadas;92;UND;2,000
+Folhagens Varíadas;92;UND;2,000
 Gengibre;94;KG;1,000
+Gengibre;94;CX;12,000
 Gerbera;95;MOL;0,500
 Girassol;96;UND;0,300
 Girassol;96;MOL;0,300
+Girassol;96;KG;1,000
 Gladiolo;97;UND;0,300
 Gladiolo;97;MOL;0,500
 Gloxinia;98;UND;1,700
 Goiaba;99;KG;1,000
+Goiaba;99;CX;9,000
+Goiaba;99;CXT;3,000
 Graviola;100;KG;1,000
+Graviola;100;CXT;4,000
 Inhame;101;KG;1,000
+Inhame;101;CX;18,000
 Jabuticaba;102;KG;1,000
+Jabuticaba;102;CX;22,000
+Jabuticaba;102;CXT;3,000
+Jabuticaba;102;OUTROS;5,000
 Jaca;103;UND;8,000
 Jaca;103;KG;1,000
 Jiló;104;KG;1,000
+Jiló;104;CX;8,000
 Kalanchoe;105;UND;0,300
+Kalanchoe;105;KG;1,000
 Kalanchoe Mini;228;CX;1,500
 Kalandiva;106;UND;0,300
 Kinkan;107;KG;1,000
+Kinkan;107;CX;5,000
+Kinkan;107;CXT;2,000
 Kiwi;108;KG;1,000
+Kiwi;108;CX;10,000
+Kiwi;108;CXT;5,000
 Kiwi Importado(a);360;KG;1,000
+Kiwi Importado(a);360;CX;10,000
 Laranja Importado(a);140060;KG;1,000
+Laranja Importado(a);140060;CX;15,000
 Laranja Lima (Ceu);110;KG;1,000
+Laranja Lima (Ceu);110;CX;18,000
 Laranja Suco;111;KG;1,000
+Laranja Suco;111;CX;18,000
+Laranja Suco;111;SACO;20,000
+Laranja Suco;111;SCL;5,000
 Laranja Umbigo (Bahia);109;KG;1,000
+Laranja Umbigo (Bahia);109;CX;18,000
+Laranja Umbigo (Bahia);109;SACO;20,000
 Lentilha;113;KG;1,000
 Lichia;321;KG;1,000
 Lima;114;KG;1,000
+Lima;114;CX;15,000
 Limão Importado(a);280;KG;1,000
+Limão Importado(a);280;CX;16,000
 Limão Siciliano;115;KG;1,000
+Limão Siciliano;115;CX;15,000
 Limão Taiti;116;KG;1,000
+Limão Taiti;116;CX;18,000
+Limão Taiti;116;SACO;20,000
+Limão Taiti;116;SCL;5,000
+Limão Taiti;116;CXT;10,000
+Limão Taiti;116;OUTROS;9,000
 Lirio;118;MOL;0,500
+Lirio;118;KG;1,000
 Lirio da Paz;119;UND;0,300
+Lirio da Paz;119;KG;1,000
 Lisianthus;229;MOL;0,500
 Louro;120;MOL;0,300
+Louro;120;KG;1,000
+Louro;120;DZ;3,600
 Maçã Fugi;121;KG;1,000
+Maçã Fugi;121;CX;18,000
 Maçã Fugi Importado(a);281;KG;1,000
+Maçã Fugi Importado(a);281;CX;18,000
 Maçã Gala;122;KG;1,000
+Maçã Gala;122;CX;18,000
 Maçã Gala Importado(a);300;KG;1,000
+Maçã Gala Importado(a);300;CX;18,000
 Maçã Golden Importado(a);123;KG;1,000
+Maçã Golden Importado(a);123;CX;18,000
+Maçã Golden Importado(a);123;CXT;10,000
 Maçã Granny Smith Importado(a);125;KG;1,000
+Maçã Granny Smith Importado(a);125;CX;18,000
+Maçã Granny Smith Importado(a);125;CXT;10,000
 Maçã Red Importado(a);124;KG;1,000
+Maçã Red Importado(a);124;CX;18,000
 Mamão Amazonas (Papaia);127;KG;1,000
+Mamão Amazonas (Papaia);127;CX;13,000
+Mamão Amazonas (Papaia);127;CXT;10,000
 Mamão Formosa;126;KG;1,000
+Mamão Formosa;126;CX;10,000
 Mandioca / Aipim;129;KG;1,000
+Mandioca / Aipim;129;CX;20,000
 Mandioquinha;128;KG;1,000
+Mandioquinha;128;CX;20,000
+Mandioquinha;128;CXT;10,000
 Manga;130;KG;1,000
+Manga;130;CX;18,000
+Manga;130;CXT;10,000
+Manga;130;OUTROS;6,000
 Mangostão;131;KG;1,000
 Manjericão;231;MOL;0,250
+Manjericão;231;KG;1,000
 Manjerona;132;MOL;0,120
+Manjerona;132;DZ;0,240
+Manjerona;132;KG;1,000
 Maracujá Azedo;133;KG;1,000
+Maracujá Azedo;133;CX;10,000
 Maracujá Doce;219;KG;1,000
+Maracujá Doce;219;CXT;6,000
 Marmelo;134;KG;1,000
 Maxixe;135;KG;1,000
+Maxixe;135;CX;20,000
+Maxixe;135;CXT;10,000
 Mel;136;KG;1,000
+Mel;136;UND;1,000
 Melancia;137;KG;1,000
+Melancia;137;UND;10,000
 Melancia Kodama / Baby;139;KG;1,000
+Melancia Kodama / Baby;139;CXT;10,000
+Melancia Kodama / Baby;139;UND;3,000
 Melancia Pingo Doce;138;KG;1,000
 Melão Cantaloupe;480080;KG;1,000
+Melão Cantaloupe;480080;CXT;7,000
+Melão Cantaloupe;480080;CX;9,000
 Melão Comum (Gaucho);140;KG;1,000
+Melão Comum (Gaucho);140;ENG;18,000
+Melão Comum (Gaucho);140;CX;18,000
 Melão Espanhol;141;KG;1,000
+Melão Espanhol;141;CX;13,000
 Melão Galia;145;KG;1,000
+Melão Galia;145;CX;9,000
+Melão Galia;145;CXT;7,000
 Melão Importado(a);302;KG;1,000
 Melão Net;143;KG;1,000
+Melão Net;143;CXT;5,000
 Melão Orange;142;KG;1,000
+Melão Orange;142;OUTROS;5,000
+Melão Orange;142;CXT;6,000
+Melão Orange;142;CX;10,000
 Melão Pele de Sapo;144;KG;1,000
+Melão Pele de Sapo;144;CX;15,000
+Melão Pele de Sapo;144;CXT;13,000
 Milho Pipoca;149;KG;1,000
 Milho Ração;148;KG;1,000
+Milho Ração;148;SACO;50,000
+Milho Ração;148;OUTROS;25,000
 Milho Verde;150;BDJ;1,000
+Milho Verde;150;SCL;1,000
 Milho Verde;150;KG;1,000
+Milho Verde;150;UND;0,330
+Milho Verde;150;SACO;16,500
+Milho Verde;150;CX;20,000
 Mirtilo;149998;KG;1,000
+Mirtilo;149998;CX;15,000
+Mirtilo;149998;OUTROS;0,250
 Mogango;232;KG;1,000
+Mogango;232;SACO;20,000
 Moranga Amarela / Vermelha;233;KG;1,000
+Moranga Amarela / Vermelha;233;SACO;20,000
 Moranga Cabotiá;234;KG;1,000
+Moranga Cabotiá;234;SACO;18,000
 Moranga Mini;235;KG;1,000
 Morango;152;KG;1,000
+Morango;152;CX;1,000
+Morango;152;CXT;1,000
+Morango;152;DZ;3,000
+Morango;152;OUTROS;0,900
 Mosquitinho;153;MOL;0,300
+Mosquitinho;153;KG;1,000
 Mostarda;154;DZ;6,000
 Nabo;155;DZ;15,000
-Nabo;155;KG;1
+Nabo;155;KG;1,000
+Nabo;155;CX;18,00
+Nabo;155;SACO;10,000
 Nectarina;156;KG;1,000
+Nectarina;156;CX;9,000
+Nectarina;156;CXT;4,500
+Nectarina;156;OUTROS;7,000
 Nectarina Importado(a);306;KG;1,000
+Nectarina Importado(a);306;CX;12,000
+Nectarina Importado(a);306;CXT;8,000
 Nespera;157;KG;1,000
+Nespera;157;CX;5,000
 Noz Pecã;159;KG;1,000
+Noz Pecã;159;SACO;1,000
 Noz Sem Variedade Importado(a);158;KG;1,000
 Orquidea;160;UND;0,500
+Orquidea;160;KG;1,000
 Ovo Branco;161;CX;24,000
+Ovo Branco;161;KG;1,000
 Ovo Branco;161;DZ;0,800
 Ovo Caipira;164;DZ;0,800
+Ovo Caipira;164;KG;1,000
 Ovo Caipira;164;CX;24,000
+Ovo Caipira;164;KG;1,000
 Ovo Codorna;162;CXT;7,000
+Ovo Codorna;162;KG;1,000
+Ovo Codorna;162;CX;7,000
 Ovo Vermelho;163;DZ;0,800
+Ovo Vermelho;163;KG;1,000
 Ovo Vermelho;163;CX;0,350
 Pepino Conserva;165;KG;1,000
+Pepino Conserva;165;CX;18,000
 Pepino Japones;167;KG;1,000
+Pepino Japones;167;CX;18,000
 Pepino Salada;166;KG;1,000
+Pepino Salada;166;CX;18,000
 Pera;168;KG;1,000
+Pera;168;CX;18,000
+Pera;168;CXT;15,000
 Pera Asiatica Importado(a);325;KG;1,000
+Pera Asiatica Importado(a);325;CX;18,000
 Pera Danjou Importado(a);171;KG;1,000
+Pera Danjou Importado(a);171;CX;18,000
 Pera Vermelha;170;KG;1,000
+Pera Vermelha;170;CX;18,000
+Pera Vermelha;170;CXT;10,000
 Pera Willians / Packams Importado(a);172;KG;1,000
+Pera Willians / Packams Importado(a);172;CX;18,000
+Pera Willians / Packams Importado(a);172;CXT;10,000
 Pessego;173;KG;1,000
+Pessego;173;CX;10,000
+Pessego;173;CXT;4,500
 Pessego Importado(a);308;KG;1,000
+Pessego Importado(a);308;CX;12,000
+Pessego Importado(a);308;CXT;8,000
 Pimenta;174;KG;1,000
+Pimenta;174;SCL;1,000
+Pimenta;174;CX;12,000
+Pimenta;174;CXT;1,000
 Pimentão Amarelo;178;KG;1,000
+Pimentão Amarelo;178;CX;9,000
 Pimentão Capeleti;176;KG;1,000
+Pimentão Capeleti;176;SACO;8,000
+Pimentão Capeleti;176;CX;9,000
 Pimentão Mini;179;KG;1,000
-Pimentão Mini;179;BDJ;
+Pimentão Mini;179;BDJ;0,280
 Pimentão Verde;175;KG;1,000
+Pimentão Verde;175;CX;10,000
 Pimentão Vermelho;177;KG;1,000
+Pimentão Vermelho;177;CX;9,000
 Pinha;180;KG;1,000
+Pinha;180;CXT;3,000
 Pinhão;181;KG;1,000
+Pinhão;181;SACO;10,000
+Pinhão;181;OUTROS;20,000
 Pitaya;182;KG;1,000
+Pitaya;182;CXT;8,000
 Pitaya  Importado(a);310;KG;1,000
+Pitaya  Importado(a);310;CXT;8,000
 Primula;184;CX;2,000
 Quiabo;185;KG;1,000
+Quiabo;185;CX;10,000
 Rabanete;186;DZ;6,000
+Rabanete;186;SACO;10,000
 Rabanete;186;KG;1,000
+Rabanete;186;CX;18,000
 Raiz Forte;201083;KG;1,000
 Raiz Forte;201083;MOL;0,500
 Repolho Roxo;189;DZ;18,000
+Repolho Roxo;189;SACO;25,000
+Repolho Roxo;189;UND;1,500
 Repolho Roxo;189;KG;1,000
 Repolho Verde;188;KG;1,000
+Repolho Verde;188;SACO;18,000
+Repolho Verde;188;DZ;21,600
+Repolho Verde;188;UND;1,800
+Repolho Verde;188;CX;10,800
 Romã;149727;KG;1,000
 Rosa Colorida;192;MOL;0,600
+Rosa Colorida;192;KG;1,000
 Rosa Importado(a);311;MOL;0,600
 Rosa Vermelha;191;MOL;0,566
 Rosa Vermelha;191;DZ;0,340
+Rosa Vermelha;191;KG;1,000
 Rúcula;194;DZ;2,000
 Sálvia;195;MOL;0,140
+Sálvia;195;DZ;0,280
+Sálvia;195;KG;1,000
 Samambaia Cuia;196;UND;0,300
 Suculentas;197;UND;0,100
 Suculentas Mini;198;CX;1,500
@@ -251,24 +524,48 @@ Tempero Verde;200;DZ;0,500
 Tempero Verde;200;KG;1,000
 Thuia Cipreste;247;UND;0,500
 Tomate Cereja (Mini Tomates);205;KG;1,000
+Tomate Cereja (Mini Tomates);205;CX;10,000
+Tomate Cereja (Mini Tomates);205;CXT;5,000
+Tomate Cereja (Mini Tomates);205;DZ;4,800
+Tomate Cereja (Mini Tomates);205;OUTROS;2,400
 Tomate Gaucho;201;KG;1,000
+Tomate Gaucho;201;CX;20,000
+Tomate Gaucho;201;CXT;10,000
 Tomate Italiano;202;KG;1,000
+Tomate Italiano;202;CX;18,000
+Tomate Italiano;202;CXT;10,000
 Tomate Longa Vida;203;KG;1,000
+Tomate Longa Vida;203;CX;18,000
+Tomate Longa Vida;203;CXT;10,000
 Tomate Rasteiro;204;KG;1,000
 Tulipa;206;UND;0,300
 Uva Comum de Mesa;207;KG;1,000
+Uva Comum de Mesa;207;CX;7,000
+Uva Comum de Mesa;207;CXT;3,500
+Uva Comum de Mesa;207;OUTROS;6,000
 Uva Fina Mesa;208;KG;1,000
+Uva Fina Mesa;208;CX;7,000
+Uva Fina Mesa;208;CXT;6,000
 Uva Importado(a);314;KG;1,000
+Uva Importado(a);314;CX;8,000
+Uva Importado(a);314;CXT;6,000
 Vagem;210;KG;1,000
+Vagem;210;SACO;10,000
+Vagem;210;CX;10,000
 Verdes (Samambaia Preta);214;MOL;0,500
 Verdes (Samambaia Preta);214;UND;0,500
 Verdes Aspargo;211;MOL;0,300
+Verdes Aspargo;211;KG;1,000
 Verdes Aspargo Importado(a);315;MOL;0,300
+Verdes Aspargo Importado(a);315;KG;1,000
 Verdes Eucaliptus;212;MOL;0,300
 Verdes Ruscus;213;MOL;0,300
 Violeta;215;UND;0,110
+Violeta;215;CX;1,650
+Violeta;215;KG;1,000
 Violeta Mini;250;CX;1,500
 Yacon;216;KG;1,000
+Yacon;216;CX;18,000
 Zamioculca;217;UND;2,000
 Plantas Frutiferas Mudas;331;UND;2
 Tamara;199;kg;1
